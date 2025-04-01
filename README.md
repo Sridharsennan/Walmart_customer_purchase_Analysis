@@ -1,1 +1,2 @@
 # Walmart_customer_purchase_Analysis
+![image alt](https://www.google.com/imgres?q=walmart%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fca%2FWalmart_logo.svg%2F1200px-Walmart_logo.svg.png&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AWalmart_logo.svg&docid=M_9qmvr-9sdUXM&tbnid=xvf-8B9iFv4wmM&vet=12ahUKEwikgMvY1baMAxXszDgGHQUVN5AQM3oECBUQAA..i&w=1200&h=288&hcb=2&ved=2ahUKEwikgMvY1baMAxXszDgGHQUVN5AQM3oECBUQAA)
