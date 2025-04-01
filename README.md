@@ -1,5 +1,5 @@
 ![image alt](https://github.com/Sridharsennan/Walmart_customer_purchase_Analysis/blob/b2899f55804c6f733431051c4fbe429076632388/walmart-removebg-preview.png)
-#Customer Purchase Analysis
+# Customer Purchase Analysis
 
 # Overview
 The **Walmart Customer Purchase Analysis** project aims to analyze customer purchasing behavior at Walmart, identify purchasing patterns, and uncover insights to improve business strategies, such as inventory management, personalized marketing, and sales forecasting. The analysis leverages data visualization tools like **Power BI** and performs data analysis techniques to provide actionable insights into customer behavior, product trends, and sales performance.
