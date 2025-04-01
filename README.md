@@ -33,5 +33,3 @@ The analysis is based on the following datasets:
 - **Promotion Effectiveness**: Assessing the impact of promotions on sales and customer behavior.
 - **Customer Retention Rate**: Visualizing number of repeat customers
 - **Sales Forecasting**: Predicting future sales based on historical trends using Power BI's forecasting feature.
-
-## Dashboard Link  https://1drv.ms/i/c/0d2bc5a60c187773/EZDsmPhrjt1OmaEbloOJKdABlYyBQ6M4YuQRkcw5g2zT6g?e=OQfQwg
